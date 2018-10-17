@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'ZYCategoryKit'
-  s.version          = '0.1.0'
+  s.version          = '0.1.2'
   s.summary          = 'A short description of ZYCategoryKit.'
 
 # This description is used to generate tags and improve search results.
@@ -18,14 +18,14 @@ Pod::Spec.new do |s|
 #   * Finally, don't worry about the indent, CocoaPods strips it!
 
   s.description      = <<-DESC
-TODO: Add long description of the pod here.
+TODO: Add long description of the pod here.详细描述
                        DESC
 
-  s.homepage         = 'https://github.com/1362226852@qq.com/ZYCategoryKit'
+  s.homepage         = 'https://github.com/ZYComponent/ZYCategoryKit'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { '1362226852@qq.com' => '1362226852@qq.com' }
-  s.source           = { :git => 'https://github.com/1362226852@qq.com/ZYCategoryKit.git', :tag => s.version.to_s }
+  s.source           = { :git => 'https://github.com/ZYComponent/ZYCategoryKit', :tag => s.version.to_s }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
   s.ios.deployment_target = '8.0'
