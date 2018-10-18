@@ -80,6 +80,7 @@
 		A0FDA8A896DA7F7033C7FEA4AF923069 /* UIView+FFFrame.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "UIView+FFFrame.h"; sourceTree = "<group>"; };
 		A8EBED5BFBB6F098988B13568E8E9D39 /* UILabel+Extension.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "UILabel+Extension.h"; sourceTree = "<group>"; };
 		AC8E4DDBF290897830A154FDAE2B2617 /* Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		B33667582178857E00469FCD /* ZYCategoryKit.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ZYCategoryKit.h; sourceTree = "<group>"; };
 		B64715B7A2E9EF389401CA2CAC1E1262 /* ZYCategoryKit.podspec */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; path = ZYCategoryKit.podspec; sourceTree = "<group>"; };
 		C07E70CAB834CFFC351EEEEE3179D2CD /* UIButton+Extension.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "UIButton+Extension.m"; sourceTree = "<group>"; };
 		C3C6784393C4E9E8CD56A8B3A463149D /* Pods-ZYCategoryKit_Tests-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-ZYCategoryKit_Tests-umbrella.h"; sourceTree = "<group>"; };
@@ -251,6 +252,7 @@
 				5372F0D608A13626A17602D167D4BF58 /* UILabel+Extension.m */,
 				A0FDA8A896DA7F7033C7FEA4AF923069 /* UIView+FFFrame.h */,
 				74C5CD44776B8E44AEE84CCD83A2DD8A /* UIView+FFFrame.m */,
+				B33667582178857E00469FCD /* ZYCategoryKit.h */,
 			);
 			name = category;
 			path = ZYCategoryKit/Classes/category;
