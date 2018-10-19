@@ -1,9 +1,9 @@
 {
   "name": "ZYCategoryKit",
-  "version": "0.1.0",
+  "version": "0.1.2",
   "summary": "A short description of ZYCategoryKit.",
-  "description": "TODO: Add long description of the pod here.",
-  "homepage": "https://github.com/1362226852@qq.com/ZYCategoryKit",
+  "description": "TODO: Add long description of the pod here.详细描述",
+  "homepage": "https://github.com/ZYComponent/ZYCategoryKit",
   "license": {
     "type": "MIT",
     "file": "LICENSE"
@@ -12,8 +12,8 @@
     "1362226852@qq.com": "1362226852@qq.com"
   },
   "source": {
-    "git": "https://github.com/1362226852@qq.com/ZYCategoryKit.git",
-    "tag": "0.1.0"
+    "git": "https://github.com/ZYComponent/ZYCategoryKit",
+    "tag": "0.1.2"
   },
   "platforms": {
     "ios": "8.0"

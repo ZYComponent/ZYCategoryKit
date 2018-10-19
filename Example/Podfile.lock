@@ -1,5 +1,5 @@
 PODS:
-  - ZYCategoryKit (0.1.0)
+  - ZYCategoryKit (0.1.2)
 
 DEPENDENCIES:
   - ZYCategoryKit (from `../`)
@@ -9,8 +9,8 @@ EXTERNAL SOURCES:
     :path: "../"
 
 SPEC CHECKSUMS:
-  ZYCategoryKit: 88b04bc4681133855c350a6a1086367b8079f069
+  ZYCategoryKit: 0c06128c099fb692854755c58ebe49f9b7c0063b
 
 PODFILE CHECKSUM: b226546ab68e55604d4b696fb906c1f00dc805d2
 
-COCOAPODS: 1.5.3
+COCOAPODS: 1.6.0.beta.1

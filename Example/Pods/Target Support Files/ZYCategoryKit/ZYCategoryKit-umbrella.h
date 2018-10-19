@@ -15,6 +15,7 @@
 #import "UIColor+Hex.h"
 #import "UILabel+Extension.h"
 #import "UIView+FFFrame.h"
+#import "ZYCategoryKit.h"
 
 FOUNDATION_EXPORT double ZYCategoryKitVersionNumber;
 FOUNDATION_EXPORT const unsigned char ZYCategoryKitVersionString[];
